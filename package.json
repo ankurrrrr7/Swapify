@@ -1,0 +1,19 @@
+{
+  "name": "swapify",
+  "version": "1.0.0",
+  "description": "A playlist swipe application",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ankurrrrr7/swapify.git"
+  },
+  "author": "Ankur Jha",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ankurrrrr7/swapify/issues"
+  },
+  "homepage": "https://github.com/ankurrrrr7/swapify#readme"
+}
