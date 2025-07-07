@@ -15,5 +15,9 @@
   "bugs": {
     "url": "https://github.com/ankurrrrr7/swapify/issues"
   },
-  "homepage": "https://github.com/ankurrrrr7/swapify#readme"
+  "homepage": "https://github.com/ankurrrrr7/swapify#readme",
+  "dependencies": {
+    "jsonwebtoken": "^9.0.2",
+    "mongoose": "^8.16.1"
+  }
 }
