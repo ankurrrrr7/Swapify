@@ -1,0 +1,1 @@
+const SpotifyStrategy = require('passport-spotify').Strategy
